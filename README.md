@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joao-Moyses-Alves
 - 👀 I’m interested in Cloud computing. Especially AWS.
 - 🌱 I’m currently learning DevOps Culture
-- 💞️ I’m looking to collaborate on way of people live
+- 💞️ I’m looking to collaborate the way of people live
 - 📫 How to reach me: joao-rj@hotmail.com
 
 <!---
